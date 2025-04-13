@@ -10,7 +10,6 @@
   <a href="mailto:michaelmounirmnb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=michaelmounir12&color=blue&style=flat" alt="Profile Views">
 </p>
 
 ---
@@ -22,16 +21,29 @@
 🌱 Currently learning: Deep Learning, Spring Boot, AWS  
 📫 How to reach me: `michaelmounirmnb@gmail.com`
 
----
-
 ### ⚒️ Tech Stack
 
-- **Languages:** Java, Python, C++, JavaScript  
-- **Frameworks:** Spring Boot, go, Node.js  
-- **Databases:**  MySQL, MongoDB  
-- **Tools:** Docker, GitHub Actions, AWS
+#### 💻 Languages
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 
----
+#### ⚙️ Frameworks & Tools
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://gin-gonic.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+#### 🗄️ Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+#### ☁️ Cloud & DevOps
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
+
 
 ### 📈 GitHub Stats
 
@@ -44,8 +56,4 @@
 
 
 
-### 🌐 Connect With Me
-
-- LinkedIn: [yourusername](linkedin.com/in/michael-william-073092252/)  
-- Email: `michaelmounirmnb@gmail.com`  
 
